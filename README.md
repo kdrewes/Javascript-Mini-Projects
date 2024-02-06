@@ -53,4 +53,3 @@ Get_Subject_Operation- Used to return the subject and operation variable origina
 Print – Used to the display the desired operation inputted by the user.
 
 Main- Generates the package object and then prints the results.
-![image](https://github.com/kdrewes/Javascript-Mini-Projects/assets/48342324/d518becb-97e6-4c16-b839-0789c59796f2)
