@@ -8,6 +8,7 @@ The purpose of this program to implement three options:
 
 - List of the prerequisites of each course in key-value pairs. These courses are listed in the follow json files: 
 • CS-BS_course_requisites_v2_pp.json 
+
 • MATH-BS_course_requisites_pp.json 
 
 When generating the output through the terminal the command to execute: node project1.js -cs -simplify or node project1.js -math -simplify 
@@ -41,9 +42,7 @@ Prerequisite-Chains – Outputs all prerequisite chains for a particular courses
 Operations – Takes the package object as a parameter and determines which option was originally selected by the user.  The following options contain:
 
 • simplify
-
 • together
-
 • chains
 
 Import_Subject – Used to determine which json file (CS-BS_course_requisites_v2_pp.json pr MATH-BS_course_requisites_pp.json) to upload.  Once the file is successfully identified, the importation will be returned.
