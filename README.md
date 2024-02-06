@@ -1,4 +1,4 @@
-Read Me Document					    Kyle Drewes
+Read Me Document					 
 
 Title: Project 1 -- Can be taken concurrently? 
 
