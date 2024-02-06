@@ -8,9 +8,9 @@ The purpose of this program to implement three options:
 
 - List of the prerequisites of each course in key-value pairs. These courses are listed in the follow json files: 
 
-• CS-BS_course_requisites_v2_pp.json 
+  • CS-BS_course_requisites_v2_pp.json 
 
-• MATH-BS_course_requisites_pp.json 
+  • MATH-BS_course_requisites_pp.json 
 
 When generating the output through the terminal the command to execute: node project1.js -cs -simplify or node project1.js -math -simplify 
 
